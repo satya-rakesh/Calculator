@@ -4,6 +4,12 @@
 	box-sizing:border-box;
 	font-family:consolas;}
   body{
+  width:100%;
+  height:100vh;
+	}	
+.cal-container{
+	width:100%;
+	height:90vh;
 	display:flex;
 	justify-content:center;
 	align-items:center;}
